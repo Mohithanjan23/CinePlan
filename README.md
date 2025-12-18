@@ -133,21 +133,12 @@ src/
 
 
 
-🗺️ Roadmap
-
-$$x$$
-
+🗺️### Roadmap
  Phase 1: MVP (Solo Planner, Weather, Basic Lists)
-
-$$$$
 
  Phase 2: Collaboration (Real-time updates, Crew invites)
 
-$$$$
-
  Phase 3: Documents (PDF Call Sheet Export)
-
-$$$$
 
  Phase 4: Mobile (PWA for on-set offline use)
 
